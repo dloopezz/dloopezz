@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there!! 👋
 [![dlopez-s's 42 stats](https://badge42.vercel.app/api/v2/cl98qkwbk00160gliy0vl56v7/stats?cursusId=21&coalitionId=66)](https://github.com/JaeSeoKim/badge42)
 
 ### Libft:    [![dlopez-s's 42 Libft Score](https://badge42.vercel.app/api/v2/cl98qkwbk00160gliy0vl56v7/project/2779635)](https://github.com/JaeSeoKim/badge42)
