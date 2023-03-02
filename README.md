@@ -3,6 +3,11 @@
 
 ### Libft:    [![dlopez-s's 42 Libft Score](https://badge42.vercel.app/api/v2/cl98qkwbk00160gliy0vl56v7/project/2779635)](https://github.com/JaeSeoKim/badge42)
 
+
+| Hola | Adios |
+|------|-------|
+|Tabla | Fea   |
+
 <!--
 **dloopezz/dloopezz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
