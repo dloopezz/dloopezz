@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Daniel!👋🏼</h1>
+<h1 align="center">Hi, I'm Daniel! 👋🏼</h1>
 
 [![dlopez-s's 42 stats](https://badge42.vercel.app/api/v2/cl98qkwbk00160gliy0vl56v7/stats?cursusId=21&coalitionId=66)](https://github.com/JaeSeoKim/badge42)
 
