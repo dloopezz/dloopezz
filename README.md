@@ -21,7 +21,7 @@
 | **✍🏼 Ft_printf:** | *score*| https://lopezz.notion.site/ft_printf-9c630cb251fd44e68da75dc26f0b65bb |
 | **🤖 Born2beroot:** | *score*| - |
 | **⏩ Get_next_line:** | *score*| https://lopezz.notion.site/get_next_line-795c53c62f364747a4efa9ede06659be |
-| **👾 So_long:** | *score*| In progress... |
+| **👾 So_long:** | *score*| https://lopezz.notion.site/so_long-f7b775ca98cc46e789135916332fb45c |
 
 
 
