@@ -18,12 +18,16 @@
 | 💻Project | 💯Score | 📝Documentation |
 |------|-------|------------------|
 |**📚 Libft:** | [![dlopez-s's 42 Libft Score](https://badge42.vercel.app/api/v2/cl98qkwbk00160gliy0vl56v7/project/2779635)](https://github.com/JaeSeoKim/badge42)   | [Libft Documentation](https://lopezz.notion.site/Libft-1bf9895b15d1483e9b1e65f5ad772ad1) |
-| **✍🏼 Ft_printf:** | *score*| [Ft_printf Documentation](https://lopezz.notion.site/ft_printf-9c630cb251fd44e68da75dc26f0b65bb) |
-| **🤖 Born2beroot:** | *score*| - |
-| **⏩ Get_next_line:** | *score*| [Get_next_line Documentation](https://lopezz.notion.site/get_next_line-795c53c62f364747a4efa9ede06659be) |
-| **👾 So_long:** | *score*| [So_long Documentation](https://lopezz.notion.site/so_long-f7b775ca98cc46e789135916332fb45c) |
+| **✍🏼 Ft_printf:** | [![dlopez-s's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cl98qkwbk00160gliy0vl56v7/project/2823240)](https://github.com/JaeSeoKim/badge42)| [Ft_printf Documentation](https://lopezz.notion.site/ft_printf-9c630cb251fd44e68da75dc26f0b65bb) |
+| **🤖 Born2beroot:** | [![dlopez-s's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/cl98qkwbk00160gliy0vl56v7/project/2823239)](https://github.com/JaeSeoKim/badge42)| - |
+| **⏩ Get_next_line:** | [![dlopez-s's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cl98qkwbk00160gliy0vl56v7/project/2823240)](https://github.com/JaeSeoKim/badge42)| [Get_next_line Documentation](https://lopezz.notion.site/get_next_line-795c53c62f364747a4efa9ede06659be) |
+| **👾 So_long:** | [![dlopez-s's 42 so_long Score](https://badge42.vercel.app/api/v2/cl98qkwbk00160gliy0vl56v7/project/2875212)](https://github.com/JaeSeoKim/badge42)| [So_long Documentation](https://lopezz.notion.site/so_long-f7b775ca98cc46e789135916332fb45c) |
 
 
+[![dlopez-s's 42 pipex Score](https://badge42.vercel.app/api/v2/cl98qkwbk00160gliy0vl56v7/project/2998481)](https://github.com/JaeSeoKim/badge42)
+
+
+[![dlopez-s's 42 Exam Rank 02 Score](https://badge42.vercel.app/api/v2/cl98qkwbk00160gliy0vl56v7/project/2914437)](https://github.com/JaeSeoKim/badge42)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
