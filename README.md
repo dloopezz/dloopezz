@@ -25,9 +25,8 @@
 | [**👾 So_long**](https://github.com/dloopezz/so_long) | [![dlopez-s's 42 so_long Score](https://badge42.vercel.app/api/v2/cl98qkwbk00160gliy0vl56v7/project/2875212)](https://github.com/JaeSeoKim/badge42)| [So_long Documentation](https://lopezz.notion.site/so_long-f7b775ca98cc46e789135916332fb45c) |
 | [**🗜 Pipex**](https://github.com/dloopezz/pipex) | [![dlopez-s's 42 pipex Score](https://badge42.vercel.app/api/v2/cl98qkwbk00160gliy0vl56v7/project/2998481)](https://github.com/JaeSeoKim/badge42) | - |
 | [**🔢 Push_swap**](https://github.com/dloopezz/push_swap) | [![dlopez-s's 42 push_swap Score](https://badge42.vercel.app/api/v2/cl98qkwbk00160gliy0vl56v7/project/3045224)](https://github.com/JaeSeoKim/badge42) | - |
-| [**🍴Philosophers**](https://github.com/dloopezz/Philosophers) | [![dlopez-s's 42 Philosophers Score]
-(https://badge42.vercel.app/api/v2/cl98qkwbk00160gliy0vl56v7/project/3081459)](https://github.com/JaeSeoKim/badge42) | - |
-| [**🖥Minishell**](https://github.com/dloopezz/minishell) | [![dlopez-s's 42 Philosophers Score]([![dlopez-s's 42 minishell Score](https://badge42.vercel.app/api/v2/cl98qkwbk00160gliy0vl56v7/project/3181966)](https://github.com/JaeSeoKim/badge42))](https://github.com/JaeSeoKim/badge42) | - |
+| [**🍴 Philosophers**](https://github.com/dloopezz/Philosophers) | [![dlopez-s's 42 Philosophers Score](https://badge42.vercel.app/api/v2/cl98qkwbk00160gliy0vl56v7/project/3081459)](https://github.com/JaeSeoKim/badge42) | - |
+| [**🖥 Minishell**](https://github.com/dloopezz/minishell) | [![dlopez-s's 42 minishell Score](https://badge42.vercel.app/api/v2/cl98qkwbk00160gliy0vl56v7/project/3181966)](https://github.com/JaeSeoKim/badge42) | - |
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
